@@ -1,3 +1,4 @@
 Hello!
 
 This is the third file.
+Adding new text for checking branch concept.
